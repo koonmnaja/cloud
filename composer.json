@@ -1,0 +1,15 @@
+{
+    "name": "admin/cloud",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Cloud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rama10",
+            "email": "61019645+koonmnaja@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
